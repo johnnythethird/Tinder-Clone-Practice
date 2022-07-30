@@ -1,3 +1,2 @@
-We've added the swipe function to the application now!\
-Each person has their own name and image associated with them.\
-We'll most likely move the information somewhere else, but the program is still in the testing phase.\
+We've added the buttons to the application. They don't work yet, but will be placeholders for now.\
+We've also began with the backend.
