@@ -1,1 +1,1 @@
-The initial start for the backend! We've installed express and mongoose so far and will add further features in the next update.
+The backend has been completed!
