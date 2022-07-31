@@ -5,7 +5,7 @@ import Cards from './dbCards.js' // Grab the model so that the post knows the fo
 // App Config
 const app = express();
 const port = process.env.PORT || 8001
-const connection_url = 'mongodb+srv://fatboy:CFraG0qN0nKfC1ap@cluster0.xz5ul.mongodb.net/?retryWrites=true&w=majority'
+const connection_url = ''
 
 // Middlewares
 app.use(express.json())
